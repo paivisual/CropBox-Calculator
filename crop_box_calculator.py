@@ -10,7 +10,6 @@ except ImportError:
         class Node:
             pass
 
-# T:\dapao_ComfyUI\ComfyUI\custom_nodes\CropBoxCalculator\crop_box_calculator.py
 
 class CropBoxCalculatorNode:
     @classmethod
